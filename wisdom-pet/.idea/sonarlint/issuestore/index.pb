@@ -1,6 +1,4 @@
 
-p
-@src/main/java/com/vargas/wisdompet/services/CustomerService.java,e\4\e476ecf972f2a4dbb650f9dcea8af131633f7c2e
 {
 Ksrc/main/java/com/vargas/wisdompet/data/repositories/ServiceRepository.java,2\5\25f3a067efbea5aee9074012c2d5a8ca4184c770
 {
@@ -9,8 +7,6 @@ Ksrc/main/java/com/vargas/wisdompet/data/repositories/ProductRepository.java,f\
 Lsrc/main/java/com/vargas/wisdompet/data/repositories/CustomerRepository.java,8\0\801c8af1a0ed635f638ef95491ca563e83f1fe7f
 s
 Csrc/main/java/com/vargas/wisdompet/data/entities/ProductEntity.java,a\4\a435d0a520370b15bcdb05a01cd905818853fda8
-o
-?src/main/java/com/vargas/wisdompet/services/ProductService.java,b\c\bc1c3c11a8cdd6641459404b4a397b3a69b3b10e
 J
 src/ui/src/pages/Layout.js,1\5\150107e327edab9ecc5e65ed211b5bdc2c9e854e
 L
@@ -31,9 +27,3 @@ B
 src/ui/src/App.css,2\0\208d4a2c6bda735db3e4c5c4166be022a1c5397d
 H
 src/ui/src/pages/Home.js,2\b\2b8506386334ed7820286c092de5fde53322641f
-C
-src/ui/package.json,c\e\ce14762d8599deb0e5f3d0f00ddb3fe34e715777
-l
-<src/main/java/com/vargas/wisdompet/WisdomPetApplication.java,a\7\a723bfbe19bd5e388bb44ea5ea7742ee2d8254e9
-k
-;src/main/java/com/vargas/wisdompet/web/models/Customer.java,2\1\21fbcde1eca4cc1ebec32d7685c3db2604113115

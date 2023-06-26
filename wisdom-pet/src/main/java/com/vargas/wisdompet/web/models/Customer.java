@@ -13,11 +13,11 @@ import lombok.Setter;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Customer {
 
-    public Long customerId;
-    public String firstName;
-    public String lastName;
-    public String emailAddress;
-    public String phoneNumber;
-    public String address;
+    private Long customerId;
+    private String firstName;
+    private String lastName;
+    private String emailAddress;
+    private String phoneNumber;
+    private String address;
 
 }
