@@ -1,0 +1,13 @@
+
+q
+java:S1104"VMake customerId a static final constant or non-public and provide accessors if needed.(¿¨ä›þÿÿÿÿ
+p
+java:S1104"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑýÿÿÿÿ
+i
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿žü
+n
+java:S1104"XMake emailAddress a static final constant or non-public and provide accessors if needed.(œ°­æ
+m
+java:S1104"WMake phoneNumber a static final constant or non-public and provide accessors if needed.(Ò€æ¨
+n
+java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ
